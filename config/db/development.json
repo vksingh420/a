@@ -2,5 +2,7 @@
 {
     "host": "localhost",
     "port": 27017,
-    "database": "polyAdb"
+    "database": "polyAdb",
+    "username":"polyauser",
+    "password":"polyateam"
 }
